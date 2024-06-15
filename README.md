@@ -8,10 +8,16 @@
 
 ---
 
+```bash
 .
 ├── init.lua
+├── lazy-lock.json
 ├── lua
-│   └── core
-│       ├── configurations.lua
-│       └── init.lua
+│   ├── core
+│   │   ├── configurations.lua
+│   │   └── init.lua
+│   └── plugins
+│       ├── lualine.lua
+│       └── themes.lua
 └── README.md
+```
