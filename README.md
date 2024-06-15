@@ -18,6 +18,7 @@
 │   │   └── init.lua
 │   └── plugins
 │       ├── lualine.lua
+│       ├── nvim-tree.lua
 │       └── themes.lua
 └── README.md
 ```
