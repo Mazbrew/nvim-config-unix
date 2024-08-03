@@ -19,7 +19,10 @@
 │   └── plugins
 │       ├── lualine.lua
 │       ├── markdown-preview.lua
+│       ├── mason.lua
+│       ├── nvim-cmp.lua
 │       ├── nvim-tree.lua
+│       ├── telescope.lua
 │       ├── themes.lua
 │       └── tree-sitter.lua
 └── README.md
